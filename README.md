@@ -10,10 +10,7 @@
 <pre>
 Silly little programmer with   || Programador bobinho com
 silly little dreams            || sonhos pequenos e bobinhos
-=============================  || ==========================
-I love using Lua(u), Batchfile!|| Eu amo usar Lua(u), Batchfile!
-  Also, i like video editing!  ||  Eu também gosto de edição de vídeo!
-------------------------------------------------------------
+============================== || ==========================
 Roblox Dev and FNF Modder      || Dev de Rovlox e Modder de FNF
 Youtuber/Video Editor          || Youtuber/Editor de Vídeo
 Composer (FL Mobile)           || Compositor (FL Mobile)
