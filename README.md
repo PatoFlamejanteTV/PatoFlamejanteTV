@@ -9,6 +9,11 @@
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCA4yZCVHlHZVknfesTU3XOg">
 </P>
 <pre>
+Interests/Likes:
+Lua/Luau, HTML, PsychEngine modding (mainly JSEngine modding),
+Roblox Studio, Roblox (Playing/Playtestig my own games)
+</pre>
+<pre>
 Silly little programmer with   || Programador bobinho com
 silly little dreams            || sonhos pequenos e bobinhos
 ============================== || ==========================
