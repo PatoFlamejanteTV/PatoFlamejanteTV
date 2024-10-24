@@ -28,7 +28,7 @@
 <pre>
 Interests/Likes:
 Lua/Luau, HTML, PsychEngine modding (mainly JSEngine modding),
-Roblox Studio, Roblox (Playing/Playtestig my own games)
+Roblox Studio, Roblox (Playing/Playtesting my own games)
 </pre>
 <pre>
 Silly little programmer with   || Programador bobinho com
