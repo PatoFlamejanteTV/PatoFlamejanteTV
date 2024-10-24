@@ -10,11 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=PatoFlamejanteTV&style=flat-square&color=grey" alt="PatoFlamejanteTV" />
 </P>
 
-<p align="center">
-  <a href="https://discord.com/users/994717305542021244">
-    <img src="https://discord.c99.nl/widget/theme-1/1176152815027101787.png" alt="PatoFlamejanteTV"/>
-     </a>
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="center">
   <tr>
