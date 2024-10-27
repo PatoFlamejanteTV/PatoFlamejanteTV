@@ -10,8 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=PatoFlamejanteTV&style=flat-square&color=grey" alt="PatoFlamejanteTV" />
 </P>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <p align="center">
   <tr>
             <td align="center" style="padding=0;width=50%;">
