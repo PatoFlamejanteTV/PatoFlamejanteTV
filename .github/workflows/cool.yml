@@ -16,7 +16,7 @@ jobs:
           echo "${phrases[$RANDOM_INDEX]}" > output.txt
       
       - name: Upload output.txt
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact
         with:
           name: output
           path: output.txt
