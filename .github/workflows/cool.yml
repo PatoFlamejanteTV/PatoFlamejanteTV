@@ -2,7 +2,9 @@ name: Say Random Phrase
 
 on: 
   schedule: [{cron: "0 0 * * *"}] # 00:00
-
+  workflow_dispatch:
+  push: {branches: ["main"]}
+  
 jobs:
   random-phrase:
     runs-on: ubuntu-latest
