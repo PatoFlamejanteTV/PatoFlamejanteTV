@@ -1,0 +1,20 @@
+name: Say Random Phrase
+
+on: 
+  schedule: [{cron: "0 0 * * *"}] # 00:00
+
+jobs:
+  random-phrase:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up the array of phrases
+        run: |
+          phrases=("Hello, world!" "English is not my native language, so i mess up somethimes srry :(" "Samy is my hero." "Beep boop, are you a robot, sir?")
+          RANDOM_INDEX=$((RANDOM % ${#phrases[@]}))
+          echo "${phrases[$RANDOM_INDEX]}" > output.txt
+      
+      - name: Upload output.txt
+        uses: actions/upload-artifact@v2
+        with:
+          name: output
+          path: output.txt
