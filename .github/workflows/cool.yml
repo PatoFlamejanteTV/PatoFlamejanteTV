@@ -15,8 +15,11 @@ jobs:
           RANDOM_INDEX=$((RANDOM % ${#phrases[@]}))
           echo "${phrases[$RANDOM_INDEX]}" > output.txt
       
+      - name: Move output.txt to root
+        run: mv output.txt $GITHUB_WORKSPACE/output.txt
+      
       - name: Upload output.txt
         uses: actions/upload-artifact@v4.5.0
         with:
           name: output
-          path: output.txt
+          path: $GITHUB_WORKSPACE/output.txt
