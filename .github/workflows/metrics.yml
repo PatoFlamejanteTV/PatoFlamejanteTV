@@ -81,7 +81,7 @@ jobs:
             PatoFlamejanteTV/flipaclip-4-1-2
             PatoFlamejanteTV/AlightMotionDecomp
           plugin_languages_ignored: >-
-             smali, java
+             smali, java, html
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
