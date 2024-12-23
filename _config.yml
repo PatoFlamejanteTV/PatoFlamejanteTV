@@ -2,3 +2,6 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-seo-tag
+webmaster_verifications:
+  google: 1234
+  bing: 1234
