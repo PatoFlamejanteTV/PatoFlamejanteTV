@@ -3,3 +3,5 @@
 
 *.yml linguist-detectable=true
 *.yaml linguist-detectable=true
+
+*.html linguist-detectable=false
