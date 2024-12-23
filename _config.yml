@@ -4,3 +4,9 @@ plugins:
   - jekyll-seo-tag
 webmaster_verifications:
   google: BMngFuhCFgzanbXj-TANEkNmNq2GACXdYNLhTnDUXFA
+social:
+  name: PatoFlamejanteTV
+  links:
+    - https://github.com/PatoFlamejanteTV
+    - https://x.com/pato_flamejante
+    - https://www.youtube.com/@patoflamejantetv_ofc
