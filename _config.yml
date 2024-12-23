@@ -4,7 +4,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 webmaster_verifications:
-  google: BMngFuhCFgzanbXj-TANEkNmNq2GACXdYNLhTnDUXFA
+  google: BMngFuhCFgzanbXj-TANEkNmNq2GACXdYNLhTnDUXFA # IF YOU ARE FORKING, REMOVE THIS VALUE!!! (or put tour own)
 social:
   name: PatoFlamejanteTV
   links:
@@ -14,6 +14,6 @@ social:
 defaults:
   -
     scope:
-      path:            "*.*" # Scary!
+      path:            "*.*" # Scary! Actually, you should have extreme caution with this btw.
     values:
       sitemap:         true
