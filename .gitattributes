@@ -1,2 +1,5 @@
-*.* linguist-detectable=true
-*.* linguist-documentation=false
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
