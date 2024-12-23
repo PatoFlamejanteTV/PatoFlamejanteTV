@@ -99,7 +99,3 @@ jobs:
           plugin_topics_sort: stars
           plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
           plugin_poopmap: yes
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
