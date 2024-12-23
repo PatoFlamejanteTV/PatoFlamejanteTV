@@ -17,6 +17,3 @@ defaults:
       path:            "*.*" # Scary! Actually, you should have extreme caution with this btw.
     values:
       sitemap:         true
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-FE30WSCDLJ # IF YOU ARE FORKING, REMOVE THIS VALUE!!! (or put your own)
