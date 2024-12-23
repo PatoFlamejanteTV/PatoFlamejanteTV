@@ -55,7 +55,7 @@ jobs:
          #plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 7
-          plugin_languages_recent_load: 10
+          plugin_languages_recent_load: 15
           plugin_languages_sections: most-used
          #plugin_languages_threshold: 0%
           plugin_languages_indepth: no # i suspect that THIS line is making my life a mf mess
