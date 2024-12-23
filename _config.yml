@@ -2,6 +2,7 @@
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 webmaster_verifications:
   google: BMngFuhCFgzanbXj-TANEkNmNq2GACXdYNLhTnDUXFA
 social:
@@ -10,3 +11,9 @@ social:
     - https://github.com/PatoFlamejanteTV
     - https://x.com/pato_flamejante
     - https://www.youtube.com/@patoflamejantetv_ofc
+defaults:
+  -
+    scope:
+      path:            "*.*" # Scary!
+    values:
+      sitemap:         true
