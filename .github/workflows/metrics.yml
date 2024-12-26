@@ -35,19 +35,12 @@ jobs:
           plugin_achievements_threshold: X
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 7
-          plugin_habits_facts: yes
-          plugin_habits_from: 7
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: css, smali, java, html
+          plugin_languages_ignored: css, smali, java, HTML
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_limit: 14
           plugin_discussions: yes
           # This part below will ignore my decomps/leak mirrors from displaying as "code i made"
           repositories_skipped: >-
