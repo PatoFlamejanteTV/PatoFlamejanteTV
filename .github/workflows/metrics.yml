@@ -46,18 +46,18 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 14
           plugin_habits_languages_limit: 0
-         #plugin_habits_languages_threshold: 0%
+          plugin_habits_languages_threshold: 1%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-         #plugin_languages_categories: markup, programming
+          plugin_languages_categories: programming
           plugin_languages_colors: github
          #plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 14
           plugin_languages_sections: most-used
-         #plugin_languages_threshold: 0%
+          plugin_languages_threshold: 1%
           plugin_languages_indepth: no # i suspect that THIS line is making my life a mf mess
           plugin_languages_details: bytes-size, percentage, lines
 
