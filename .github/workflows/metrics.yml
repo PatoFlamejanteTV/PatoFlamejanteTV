@@ -78,9 +78,5 @@ jobs:
             PatoFlamejanteTV/AlightMotionDecomp
           plugin_languages_ignored: >-
              smali, java, html
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 7
           plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
           plugin_poopmap: yes
