@@ -59,6 +59,4 @@ jobs:
             PatoFlamejanteTV/Infinitode2-JADXDecomp,
             PatoFlamejanteTV/Infinitode2-UnDecompiled,
             PatoFlamejanteTV/flipaclip-4-1-2
-            PatoFlamejanteTV/AlightMotionDecomp
-          plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
-          plugin_poopmap: yes
+            PatoFlamejanteTV/AlightMotionDecomps
