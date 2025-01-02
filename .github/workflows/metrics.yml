@@ -35,11 +35,6 @@ jobs:
           plugin_achievements_threshold: C
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_languages: yes
-          plugin_languages_ignored: css, smali, java, html
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 4
           plugin_discussions: yes
           # This part below will ignore my decomps/leak mirrors from displaying as "code i made"
           repositories_skipped: >-
