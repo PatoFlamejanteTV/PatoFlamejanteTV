@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/visualbasic-original.svg" height="40" alt="visual basic logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" height="40" alt="visual basic .NET logo"  />
   <img width="12" />
 </div>
 
