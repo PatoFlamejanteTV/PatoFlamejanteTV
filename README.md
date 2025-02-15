@@ -30,6 +30,10 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" height="40" alt="visual basic .NET logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
