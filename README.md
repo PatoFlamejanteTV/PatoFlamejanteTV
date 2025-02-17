@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I _(currently)_ code with</h2>
+<h2 align="left">I *(currently)* code with</h2>
 
 ###
 
