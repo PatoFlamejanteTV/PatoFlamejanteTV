@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating trash since 2017, where I used to program with VBScript.<br>📚 I'm currently learning NodeJS, VB.NET, C++/C#/C<br>🎯 Goals: Make something that is useful.<br>🎲 Fun fact: I have more sad facts than fun fact, so heres an sad fact: I have no fun fact, so it make an paradox from what I should talk here, I call this the fun sad fact paradox.</p>
+<p align="left">✨ Creating trash since 2017, where I used to program with VBScript/BatchFile/Pure-HTML.<br>📚 I'm currently learning NodeJS, VB.NET, C++/C#/C<br>🎯 Goals: Make something that is useful.<br>🎲 Fun fact: I have more sad facts than fun fact, so heres an sad fact: I have no fun fact, so it make an paradox from what I should talk here, I call this the fun sad fact paradox.</p>
 
 ###
 
