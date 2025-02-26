@@ -1,54 +1,31 @@
-name: Generate ABOUTME.md
+name: Generate Repos MD
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight
 
 jobs:
-  update-aboutme:
+  update-repos-md:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-
-    - name: Fetch user profile and repos
+    - name: Fetch recent public repos
       run: |
-        echo "Fetching user profile and repositories..."
-        curl -s https://api.github.com/users/PatoFlamejanteTV > user.json
         curl -s https://api.github.com/users/PatoFlamejanteTV/repos?type=public&sort=updated&per_page=5 > repos.json
-        node -e "
-        const fs = require('fs');
-        const user = JSON.parse(fs.readFileSync('user.json', 'utf-8'));
-        const repos = JSON.parse(fs.readFileSync('repos.json', 'utf-8'));
-        const content = \`
-# About Me
-
-![Profile Image](${user.avatar_url})
-
-**Username**: ${user.login}
-
-**Bio**: ${user.bio || 'No bio available'}
-
-## Most Recent Public Repos:
-\${repos.map(repo => \`1. [\${repo.name}](\${repo.html_url})\`).join('\\n')}
-
-\`;
-        fs.writeFileSync('ABOUTME.md', content);
-        "
+        node -e '
+        const fs = require("fs");
+        const repos = JSON.parse(fs.readFileSync("repos.json", "utf-8"));
+        const content = repos.map(repo => `## ${repo.name}\n\n${repo.description || "No description provided."}\n`).join("\n");
+        fs.writeFileSync("repos.md", content);
+        '
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add ABOUTME.md
-        git commit -m 'Update ABOUTME.md'
+        git add repos.md
+        git commit -m 'Update repos.md'
         git push
