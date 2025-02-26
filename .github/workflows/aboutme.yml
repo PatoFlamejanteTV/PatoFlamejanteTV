@@ -3,6 +3,7 @@ name: Generate Repos MD
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight
+  push: {branches: ["main"]}
 
 jobs:
   update-repos-md:
