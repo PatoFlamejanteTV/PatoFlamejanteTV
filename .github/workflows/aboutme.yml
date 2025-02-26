@@ -3,7 +3,9 @@ name: Generate Repos MD
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight
-  push: {branches: ["main"]}
+  push:
+    branches:
+      - main
 
 jobs:
   update-repos-md:
@@ -12,6 +14,11 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
 
     - name: Fetch recent public repos
       run: |
