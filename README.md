@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">✨ Creating trash since 2017, where I used to program with VBScript/BatchFile/Pure-HTML.<br>📚 I'm currently learning NodeJS, VB.NET, C++/C#/C<br>🎯 Goals: Make something that is useful.<br>🎲 Fun fact: I have more sad facts than fun fact, so heres an sad fact: I have no fun fact, so it make an paradox from what I should talk here, I call this the fun sad fact paradox.</p>
+<p align="left">✨ Creating trash since 2017, where I used to program with VBScript/BatchFile/Pure-HTML.<br>📚 I'm currently learning
+<br>NodeJS, <br>VB.NET, <br>C++/C#/C, <br>Windows Phone VB/C++/C#/C&HTML+JS+CSS development (8.0, testing on a 8.1 hardware) <br>🎯 Goals: Make something that is useful.<br>🎲 Fun fact: I have more sad facts than fun fact, so heres an sad fact: I have no fun fact, so it make an paradox from what I should talk here, I call this the fun sad fact paradox.</p>
 
 ###
 
@@ -24,13 +25,15 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="40" alt="haxe logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="14" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" height="40" alt="visual basic .NET logo"  />
   <img width="14" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo"  />
+  <img width="14" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="40" alt="C# logo"  />
+  <img width="14" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" height="40" alt="C logo"  />
   <img width="14" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="python logo"  />
   <img width="14" />
