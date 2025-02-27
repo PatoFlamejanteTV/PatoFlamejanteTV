@@ -22,13 +22,23 @@ jobs:
 
     - name: Fetch recent public repos
       run: |
-        curl -s https://api.github.com/users/PatoFlamejanteTV/repos?type=public&sort=updated&per_page=5 > repos.json
-        node -e '
-        const fs = require("fs");
-        const repos = JSON.parse(fs.readFileSync("repos.json", "utf-8"));
-        const content = repos.map(repo => `## ${repo.name}\n\n${repo.description || "No description provided."}\n`).join("\n");
-        fs.writeFileSync("repos.md", content);
-        '
+        curl -s https://api.github.com/users/PatoFlamejanteTV/repos?type=public&sort=updated&per_page=5 -o repos.json
+        if [ -s repos.json ]; then
+          if node -e "const fs = require('fs'); JSON.parse(fs.readFileSync('repos.json', 'utf-8'))"; then
+            node -e '
+            const fs = require("fs");
+            const repos = JSON.parse(fs.readFileSync("repos.json", "utf-8"));
+            const content = repos.map(repo => `## ${repo.name}\n\n${repo.description || "No description provided."}\n`).join("\n");
+            fs.writeFileSync("repos.md", content);
+            '
+          else
+            echo "Failed to parse JSON. Check the API response."
+            exit 1
+          fi
+        else
+          echo "No data received from API. Check the API request."
+          exit 1
+        fi
 
     - name: Commit and push changes
       run: |
