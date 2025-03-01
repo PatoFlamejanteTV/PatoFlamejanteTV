@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="https://randomcatfacejs-git-main-patoflamejantetvs-projects.vercel.app" width="220" align="left">
-    <img src="https://randomcatfacejs-git-main-patoflamejantetvs-projects.vercel.app" width="220" align="right">
+    <img src="https://randomcatfacejs-git-main-patoflamejantetvs-projects.vercel.app" width="120" align="left">
+    <img src="https://randomcatfacejs-git-main-patoflamejantetvs-projects.vercel.app" width="120" align="right">
   </p>
   <div align="center">
     <samp>
@@ -12,7 +12,10 @@
     <br>
     <br>
     <pre>
-      [Node]JS, VB.NET, C/C#/C++, [Iron, sometimes]Python
+[Node]JS,
+VB.NET,
+C/C#/C++,
+[Iron, sometimes]Python
     </pre>
   </div>
   <br>
