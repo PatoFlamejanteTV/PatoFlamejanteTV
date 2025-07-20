@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="/res/pato.png">
+  <img src="https://github.com/PatoFlamejanteTV/PatoFlamejanteTV/blob/main/res/pato.png">
 </p>
   <div align="center">
     <samp>
