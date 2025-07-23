@@ -38,5 +38,10 @@ I do things for fun,
 maybe someday... some thing i did
 will make me memorable.
     </pre>
+  <img src="https://wakatime.com/share/@f86c018b-6405-45de-8105-063daeeba56c/54ce86f7-0594-4c7e-a201-abddffe53c6b.svg" width="200"></img>
+  <img src="https://wakatime.com/share/@f86c018b-6405-45de-8105-063daeeba56c/4762a540-e9c3-46ac-a742-afabc46ea559.svg" width="200"></img>
+  <img src="https://wakatime.com/share/@f86c018b-6405-45de-8105-063daeeba56c/1cda3bcc-efe2-4c1d-a36e-8435045d1655.svg" width="200"></img>
+  <img src="https://wakatime.com/share/@f86c018b-6405-45de-8105-063daeeba56c/49b7a0d2-fdea-4df7-ab84-1ae31cd406b3.svg" width="200"></img>
+  <img src="https://wakatime.com/share/@f86c018b-6405-45de-8105-063daeeba56c/98c0205f-0c25-43d2-9102-ebdbbdac7c93.svg" width="200"></img>
   </div>
   <br>
