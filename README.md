@@ -13,7 +13,6 @@
     <img src="https://pride-badges.pony.workers.dev/static/v1?label=Demib&labelColor=%23555&stripeWidth=5&stripeColors=7F7F7F%2CC4C4C4%2C9DD7EA%2CFFFFFF%2C9DD7EA%2CC4C4C4%2C7F7F7F">
     <br><br>
     <img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2010&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <br><br>
