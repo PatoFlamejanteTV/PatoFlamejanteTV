@@ -41,12 +41,12 @@ will make me memorable.
     <br><br>
   </div>
     <div align="left">
-    <p>
-      <b>[NEW!]::</b> Prob you're already seem it (if you're not on seeing my README from my Github profile), but now im currently using the <code>quack.is-a-good.dev</code> domain from now!
-    </p>
+    <pre>
+      <b>[NEW!]::</b> Prob you're already seem it (if you're not on seeing my README from my Github profile), but now im currently using the [quack.is-a-good.dev] domain from now!
+    </pre>
   </div>
     <div align="right">
-    <p>
-      <b>[NOTE!]::</b> I have an FUNDING.yml now! It means that if you want to donate to me via Pix, you now can using PixGG! (https://pixgg.com/PatoFlamejanteTV)
-    </p>
+    <pre>
+      <b>[NOTE!]::</b> I have an FUNDING.yml now! It means that if you want to donate to me via Pix, you now can using PixGG! [https://pixgg.com/PatoFlamejanteTV]
+    </pre>
   </div>
