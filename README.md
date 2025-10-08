@@ -38,6 +38,7 @@ I do things for fun,
 maybe someday... some thing i did
 will make me memorable.
     </pre>
+    <br><br>
   </div>
     <div align="left">
     <p>
@@ -49,4 +50,3 @@ will make me memorable.
       <b>[NOTE!]::</b> I have an FUNDING.yml now! It means that if you want to donate to me via Pix, you now can using PixGG! (https://pixgg.com/PatoFlamejanteTV)
     </p>
   </div>
-  <br>
