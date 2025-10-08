@@ -38,6 +38,15 @@ I do things for fun,
 maybe someday... some thing i did
 will make me memorable.
     </pre>
-  
+  </div>
+    <div align="left">
+    <p>
+      <b>[NEW!]::</b> Prob you're already seem it (if you're not on seeing my README from my Github profile), but now im currently using the <code>quack.is-a-good.dev</code> domain from now!
+    </p>
+  </div>
+    <div align="right">
+    <p>
+      <b>[NOTE!]::</b> I have an FUNDING.yml now! It means that if you want to donate to me via Pix, you now can using PixGG! (https://pixgg.com/PatoFlamejanteTV)
+    </p>
   </div>
   <br>
