@@ -43,6 +43,8 @@ will make me memorable.
 <hr>
 <div align="center">
   <h1>About myself</h1>
-  <p>Hi! My name is UltimateQuack, but some people also know me as PatoFlamejanteTV.</p>
-  <p>I like programming and animating, i was an video editor, but im kinda unmotivated to edit stuff nowadays...</p>
+</div>
+<div align="left">
+  <p>Hi! My name is <b>UltimateQuack, but some people also know me as PatoFlamejanteTV</b>.</p>
+  <p>I like <b>programming and animating</b>, <i>i was an video editor, but im kinda unmotivated to edit stuff nowadays...</i>i></p>
 </div>
