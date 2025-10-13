@@ -38,7 +38,6 @@ I do things for fun,
 maybe someday... some thing i did
 will make me memorable.
     </pre>
-    <br><br>
   </div>
 <hr>
 <div align="center">
@@ -46,5 +45,5 @@ will make me memorable.
 </div>
 <div align="left">
   <p>Hi! My name is <b>UltimateQuack, but some people also know me as PatoFlamejanteTV</b>.</p>
-  <p>I like <b>programming and animating</b>, <i>i was an video editor, but im kinda unmotivated to edit stuff nowadays...</i>i></p>
+  <p>I like <b>programming and animating</b>, <i>i was an video editor, but im kinda unmotivated to edit stuff nowadays...</i></p>
 </div>
