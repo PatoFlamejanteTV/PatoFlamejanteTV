@@ -40,3 +40,9 @@ will make me memorable.
     </pre>
     <br><br>
   </div>
+<hr>
+<div align="center">
+  <h1>About myself</h1>
+  <p>Hi! My name is UltimateQuack, but some people also know me as PatoFlamejanteTV.</p>
+  <p>I like programming and animating, i was an video editor, but im kinda unmotivated to edit stuff nowadays...</p>
+</div>
