@@ -57,7 +57,7 @@ will make me memorable.
   <p>A small Client-Side `UserScript` to get an animated GIF from a user README repo and then replace with the default Github profile image.</p>
 </div>
 <div align="right">
-  <h3>Github Non-link on Link are on Repository. <a href="http://quack.is-a-good.dev/GitHub-nonlink-on-link-area/">Link</a></h3>
+  <h3>Github Non-link on Link area on Repository. <a href="http://quack.is-a-good.dev/GitHub-nonlink-on-link-area/">Link</a></h3>
   <img width="700" src="https://private-user-images.githubusercontent.com/152564036/400058508-373d609b-323e-4b9d-b841-ad1ecf05b3ff.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIzODcwODYsIm5iZiI6MTc2MjM4Njc4NiwicGF0aCI6Ii8xNTI1NjQwMzYvNDAwMDU4NTA4LTM3M2Q2MDliLTMyM2UtNGI5ZC1iODQxLWFkMWVjZjA1YjNmZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwNVQyMzUzMDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hY2VmZWM2MGQ5NWQ2YThiMGExZmMyYTRiZWZlOWQzNWNmZTQ1MzQzZjIwZTE1NGIwM2VjYTdkMmFjNjc2NDI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.FIaq6L7HMVh8qTOWLfWn-NrEXCEgjHjBOo3Qk-7how4"/>
   <br>
   <p>A simple tutorial on how to bypass Github's hardcoded link textbox.</p>
