@@ -53,12 +53,13 @@ will make me memorable.
 <div align="left">
   <h3>Github PFP Animator. <a href="https://github.com/PatoFlamejanteTV/Github-Animated-PFP">Link</a></h3>
   <img width="500" src="https://raw.githubusercontent.com/PatoFlamejanteTV/Github-Animated-PFP/refs/heads/main/.github/screenshots/GAPP.png"/>
-  <br>
-  <p>A small Client-Side `UserScript` to get an animated GIF from a user README repo and then replace with the default Github profile image.</p>
+  <br><br>
+  <p>A small Client-Side `UserScript` to get an animated GIF from a user README repo <br>
+    and then replace with the default Github profile image.</p>
 </div>
 <div align="right">
   <h3>Github Non-link on Link area on Repository. <a href="http://quack.is-a-good.dev/GitHub-nonlink-on-link-area/">Link</a></h3>
   <img width="500" src="https://i.imgur.com/x2izOwC.png"/>
-  <br>
+  <br><br>
   <p>A simple tutorial on how to bypass Github's hardcoded link textbox.</p>
 </div>
