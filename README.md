@@ -52,3 +52,14 @@ will make me memorable.
   <br><br>
   <p>A simple tutorial on how to bypass Github's hardcoded link textbox.</p>
 </div>
+<div align="center">
+  <h3>Other stuff...</h3>
+</div>
+<div align="left">
+  <a href="https://github.com/PatoFlamejanteTV/scrn">SCRN - A simple, C++ Image-to-ASCII app that clones your current screen and displays an ASCII-fied version.</a><br>
+  <a href="https://github.com/PatoFlamejanteTV/QuackForceWindows">QuackForceWindows - A simple, C#-powered app to ovewrite Window flags.</a><br>
+  <a href="https://github.com/PatoFlamejanteTV/EZGlobalStream">EZGlobalStream - Small, lightweight, cross-platform tool for making pre-recorded Youtube livestreams.</a><br>
+  <a href="https://github.com/PatoFlamejanteTV/hourlycrypto">hourlycrypto - An advanced Python Telegram cryptocurrency price analyzer.</a><br>
+  <a href="https://github.com/PatoFlamejanteTV/YTPlaylistDownloader">YTPlaylistDownloader - A lightweight Youtube playlist downloader made in C#.</a><br>
+  <a href="https://github.com/PatoFlamejanteTV/micfuckery">micf*ckery - A collection of experiments with interacting with the system microphone.</a><br>
+</div>
