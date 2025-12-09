@@ -62,4 +62,5 @@ will make me memorable.
   <a href="https://github.com/PatoFlamejanteTV/hourlycrypto">hourlycrypto - An advanced Python Telegram cryptocurrency price analyzer.</a><br>
   <a href="https://github.com/PatoFlamejanteTV/YTPlaylistDownloader">YTPlaylistDownloader - A lightweight Youtube playlist downloader made in C#.</a><br>
   <a href="https://github.com/PatoFlamejanteTV/micfuckery">micf*ckery - A collection of experiments with interacting with the system microphone.</a><br>
+  <a href="http://quack.is-a-good.dev/coisas-que-programadores-deveriam-saber/">A full, Portuguese translation of "every-programmer-should-know".</a>
 </div>
